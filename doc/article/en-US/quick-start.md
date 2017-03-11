@@ -43,7 +43,7 @@ Now let's setup your project. First, unzip the downloaded files on your hard dri
       </head>
       <body aurelia-app="src/main">
         <script src="scripts/system.js"></script>
-        <script src="scripts/config-typescript.js"></script>
+        <script src="scripts/config-esnext.js"></script>
         <script src="scripts/aurelia-core.min.js"></script>
         <script>
           System.import('aurelia-bootstrapper');
